@@ -7,13 +7,17 @@
     <div class="row featured-post-slider">
       {{ range (where .Site.RegularPages "Type" "featured")}}
       <div class="col-lg-3 col-sm-6 mb-2 mb-lg-0 px-1">
-        <article class="card bg-dark text-center text-white border-0 rounded-0">
-          <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+        <article class="card bg-dark text-center text-white border-0 rounded-0" style="    
+        background-image: url({{.Params.Image | absURL}});
+        width: 100%;
+        height: 350px;
+        background-size: cover;">
+          <!--img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb"-->
           <div class="card-img-overlay">
             <div class="card-content">
               <p class="text-uppercase">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
               <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <a class="btn btn-outline-light" href="{{.Permalink}}">read more</a>
+              <a class="btn btn-outline-light" href="{{.Permalink}}">lire plus</a>
             </div>
           </div>
         </article>
@@ -70,7 +74,7 @@
           <p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p>
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">{{.Title}}</a></h4>
           <p>{{.Summary}}</p>
-          <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
+          <a href="{{.Permalink}}" class="btn btn-transparent">lire plus</a>
         </article>
       </div>
       {{ end }}

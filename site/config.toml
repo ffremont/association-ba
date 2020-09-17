@@ -43,20 +43,37 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 
 # navigation
+
 [[menu.main]]
-name = "About"
-URL = "about"
+name = "Adopter"
+URL = "adopter"
 weight = 2
 
 [[menu.main]]
-name = "Contact"
-URL = "contact"
+name = "Devenir famille d'accueil"
+URL = "famille-accueil"
 weight = 3
+
+[[menu.main]]
+name = "L'association"
+URL = "association"
+weight = 4
+
+[[menu.main]]
+name = "Soutenir"
+URL = "soutenir"
+weight = 5
+
+[[menu.main]]
+name = "Nous contacter"
+URL = "nous-contacter"
+weight = 6
+
 
 # deult parameter
 [params]
 logo = "images/logo.png"
-home = "Home"
+home = "Accueil"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
@@ -80,11 +97,6 @@ google_analitycs_id = "Your ID"
 # copyright
 copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
 
-# Instagram feed
-[params.instafeed]
-enable = true
-access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
-
 # social site
 [[params.social]]
 icon = "ti-facebook"
@@ -94,10 +106,3 @@ URL = "#"
 icon = "ti-twitter-alt"
 URL = "#"
 
-[[params.social]]
-icon = "ti-linkedin"
-URL = "#"
-
-[[params.social]]
-icon = "ti-github"
-URL = "#"
