@@ -1,0 +1,45 @@
+.bg-secondary {
+    background: #a1c1da24!important;
+}
+
+.section {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+
+.single .c-datedenaissance{
+    opacity: 0.6;
+    font-size: 90%;
+}
+
+.fiche{
+    float: right;
+    background-color: #f4f4f4;
+    padding: 15px 30px;
+    min-width: 200px;
+    margin-left: 20px;
+}
+.fiche ul{
+    list-style-type: initial;
+}
+.fiche .critere div{
+    margin-bottom:0;
+}
+.fiche ul li{
+    margin-bottom:5px;
+}
+.fiche .critere, .fiche ul{
+    margin-bottom:10px;
+}
+.fiche .cvalue{
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 600px) {
+    .fiche{
+        display: inline-block;
+        width: 100%;
+        float: auto;
+    }
+  }

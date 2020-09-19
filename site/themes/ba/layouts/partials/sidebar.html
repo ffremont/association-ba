@@ -2,11 +2,11 @@
   <div class="widget search-box">
     <form action="{{ .Site.BaseURL }}/search">
       <i class="ti-search"></i>
-      <input class="form-control border-0 pl-5" type="search" placeholder="Search" id="search-query" name="s">
+      <input class="form-control border-0 pl-5" type="search" placeholder="Rechercher" id="search-query" name="s">
     </form>
   </div>
   <div class="widget">
-    <h6 class="mb-4">LATEST POST</h6>
+    <h6 class="mb-4">Derniers articles</h6>
     {{ range first 3 ( where .Site.Pages "Type" "post") }}
     <div class="media mb-4">
       <div class="post-thumb-sm mr-3">
@@ -14,7 +14,7 @@
       </div>
       <div class="media-body">
         <ul class="list-inline d-flex justify-content-between mb-2">
-          <li class="list-inline-item">Post By {{.Site.Params.author}}</li>
+          <li class="list-inline-item">Posté par {{.Site.Params.author}}</li>
           <li class="list-inline-item">{{ .PublishDate.Format "Jan 02, 2006" }}</li>
         </ul>
         <h6><a class="text-dark" href="{{ .Permalink }}">{{.Title}}</a></h6>

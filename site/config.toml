@@ -4,7 +4,7 @@ theme = "ba"
 
 title = "Association B.A."
 summaryLength = "10"
-paginate = 6
+paginate = 50
 
 # output
 [outputs]
@@ -72,7 +72,7 @@ weight = 6
 
 # deult parameter
 [params]
-logo = "images/logo.png"
+logo = "images/asso-ba.png"
 home = "Accueil"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
