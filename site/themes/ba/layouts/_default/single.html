@@ -5,17 +5,17 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>{{ .Title }} 
+        <h4>{{ .Title }}
           {{ if eq .Params.sexe "M" }}
-              <span class="c-sexe">&#9794;</span>
+          <span class="c-sexe">&#9794;</span>
           {{ end }}
           {{ if eq .Params.sexe "F" }}
-              <span class="c-sexe">&#9792;</span>
+          <span class="c-sexe">&#9792;</span>
           {{ end }}
-          </h4>
+        </h4>
         <h5>
           {{ if isset .Params "datedenaissance" }}
-              <span class="c-datedenaissance">{{.Params.datedenaissance}}</span>
+          <span class="c-datedenaissance">{{.Params.datedenaissance}} <sup>naissance</sup></span>
           {{ end }}
         </h5>
       </div>
@@ -35,49 +35,64 @@
         </ul>
         <article class="content">
           <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
-         
+
           <div class="fiche">
             <h6>Fiche</h6>
+            <div class="critere">
+              <span class="cname">Statut</span> : <span class="cvalue">
+
+                {{ if eq .Params.etat "disponible" }}
+                Disponible
+                {{ end }}
+                {{ if eq .Params.etat "reserve" }}
+                Reservé
+                {{ end }}
+                {{ if eq .Params.etat "adopte" }}
+                Adopté
+                {{ end }}
+
+              </span>
+            </div>
             <div class="critere">
               <span class="cname">Nom</span> : <span class="cvalue">{{.Params.nom}}</span>
             </div>
             {{ if isset .Params "sexe" }}
-              <div class="critere">
-                <span class="cname">Sexe</span> : <span class="cvalue">
-                  {{ if eq .Params.sexe "M" }}Mâle{{ end }}
-                  {{ if eq .Params.sexe "F" }}Femelle{{ end }}
-                </span>
-              </div>
+            <div class="critere">
+              <span class="cname">Sexe</span> : <span class="cvalue">
+                {{ if eq .Params.sexe "M" }}Mâle{{ end }}
+                {{ if eq .Params.sexe "F" }}Femelle{{ end }}
+              </span>
+            </div>
             {{ end }}
             {{ if isset .Params "datedenaissance" }}
-              <div class="critere">
-                <span class="cname">Né le</span> : <span class="cvalue">{{.Params.datedenaissance}}</span>
-              </div>
+            <div class="critere">
+              <span class="cname">Né le</span> : <span class="cvalue">{{.Params.datedenaissance}}</span>
+            </div>
             {{ end }}
             {{ if isset .Params "montantremoursement" }}
-              <div class="critere">
-                <span class="cname">Frais</span> : <span class="cvalue">{{.Params.montantremoursement}}€</span>
-              </div>
+            <div class="critere">
+              <span class="cname">Participation</span> : <span class="cvalue">{{.Params.montantremoursement}}€</span>
+            </div>
             {{ end }}
             {{ if isset .Params "traits" }}
-              <div class="critere">
-                <div class="cname">Traits :</div> 
-                <ul>
-                  {{ range .Params.traits }}
-                    <li>{{.}}</li>
-                  {{ end }}
-                </ul>
-              </div>
+            <div class="critere">
+              <div class="cname">Traits :</div>
+              <ul>
+                {{ range .Params.traits }}
+                <li>{{.}}</li>
+                {{ end }}
+              </ul>
+            </div>
             {{ end }}
             {{ if isset .Params "soinsfaits" }}
-              <div class="critere">
-                <div class="cname">Soins faits :</div> 
-                <ul>
-                  {{ range .Params.soinsfaits }}
-                    <li>{{.}}</li>
-                  {{ end }}
-                </ul>
-              </div>
+            <div class="critere">
+              <div class="cname">Soins faits :</div>
+              <ul>
+                {{ range .Params.soinsfaits }}
+                <li>{{.}}</li>
+                {{ end }}
+              </ul>
+            </div>
             {{ end }}
           </div>
           {{.Content}}

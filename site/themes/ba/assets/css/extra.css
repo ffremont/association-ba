@@ -7,6 +7,39 @@
     padding-bottom: 40px;
 }
 
+.section .disponibilite{
+    position: absolute;
+    margin-top: -55px;
+    background: white;
+    
+    border-radius: 0 10px 0 0;
+    padding: 5px 10px;
+}
+.section .disponibilite .etat{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    display: inline-block;
+    line-height: 10px;
+}
+.disponible .etat{
+    background-color: green;
+}
+.disponibilite.disponible{
+    color:green;
+}
+.reserve .etat{
+    background-color: orange;
+}
+.disponibilite.reserve{
+    color:orange;
+}
+.adopte .etat{
+    background-color: red;
+}
+.disponibilite.adopte{
+    color:red;
+}
 
 .single .c-datedenaissance{
     opacity: 0.6;

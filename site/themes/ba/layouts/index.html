@@ -71,6 +71,18 @@
       <div class="col-lg-4 col-sm-6 mb-5">
         <article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
+          <div class="disponibilite {{.Params.etat}}">
+              <span class="etat"></span> 
+              {{ if eq .Params.etat "disponible" }}
+                  Disponible
+              {{ end }}
+              {{ if eq .Params.etat "reserve" }}
+                  Reservé
+              {{ end }}
+              {{ if eq .Params.etat "adopte" }}
+                  Adopté
+              {{ end }}
+            </div> 
           <!--p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p-->
 
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">
