@@ -18,7 +18,12 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Nom", name: "nom", widget: "string" }
       - {label: "Date de naissance", name: "datedenaissance", widget: "date", format: "DD/MM/YYYY" }
       - {label: "Participation", name: "montantremoursement", widget: "number" }
-      - {label: "Sexe", name: "sexe", widget: "select", options:[{label: "Mâle",value:"M"}, {label:"Femelle", value:"F"}] }
+      - label: "Sexe"
+        name: "sexe"
+        widget: "select"
+        options:
+          - { label: "Mäle",value:"M"}
+          - { label:"Femelle", value:"F"}
       - {label: "Tags", name: "tags", widget: "list" }
       - {label: "Caractère", name: "traits", widget: "list" }
       - {label: "Soins réalisés", name: "soinsfaits", widget: "list" }
