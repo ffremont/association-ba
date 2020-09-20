@@ -1,25 +1,24 @@
 ---
-title: "Fusible"
-date: 2020-05-14T14:46:10+06:00
-description: "This is meta description"
-type: "post"
-image: "/images/chatons/exemple-4.jpg"
-etat: "adopte"
-tags:
-  - "gris"
-  - "poil long"
-
-nom: "Fusible"
-sexe: "M"
-datedenaissance: "01/01/2020"
-traits :
-  - "doux"
-  - "malin"
-  - "calin"
+title: Fusible
+date: 2020-05-14T11:46:10.000Z
+description: This is meta description 2
+image: /images/chatons/exemple-4.jpg
+etat: adopte
+nom: Fusible
+datedenaissance: 01/01/2020
 montantremoursement: "300"
+type: post
+sexe: M
+tags:
+  - gris
+  - poil long
+traits:
+  - doux
+  - malin
+  - calin
 soinsfaits:
-  - "stérilisation"
-  - "détartrage"
+  - stérilisation
+  - détartrage
 ---
 
 Fusible est un petit chaton recueillie il y a 1 semaine par l'association. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
