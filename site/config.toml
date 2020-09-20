@@ -45,13 +45,13 @@ link = "plugins/search/search.js"
 # navigation
 
 [[menu.main]]
-name = "Adopter"
-URL = "adopter"
+name = "Comment adopter ?"
+URL = "comment-adopter"
 weight = 2
 
 [[menu.main]]
 name = "Devenir famille d'accueil"
-URL = "famille-accueil"
+URL = "devenir-famille-accueil"
 weight = 3
 
 [[menu.main]]
