@@ -1,0 +1,38 @@
+backend:
+  name: git-gateway
+
+media_folder: "site/static/images" # Folder where user uploaded files should go
+public_folder: "images"
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "chatons" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Chaton" # Used in the UI, ie.: "New Post"
+    folder: "site/content/chatons" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Titre", name: "title", widget: "string"}
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Etat", name: "etat", widget: "string" }
+      - {label: "Nom", name: "nom", widget: "string" }
+      - {label: "Date de naissance", name: "datedenaissance", widget: "date", format: "DD/MM/YYYY" }
+      - {label: "Participation", name: "montantremoursement", widget: "number" }
+      - {label: "Sexe", name: "sexe", widget: "select", options:["M", "F"] }
+      - {label: "Tags", name: "tags", widget: "list" }
+      - {label: "Caractère", name: "traits", widget: "list" }
+      - {label: "Soins réalisés", name: "soinsfaits", widget: "list" }
+      - {label: "Body", name: "body", widget: "markdown"}
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "site/content/pages/association.md"
+        label: "L'association"
+        name: "association"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}
