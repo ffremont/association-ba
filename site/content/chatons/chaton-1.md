@@ -3,7 +3,7 @@ title: "Fusible"
 date: 2020-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "post"
-image: "images/chatons/exemple-4.jpg"
+image: "/images/chatons/exemple-4.jpg"
 etat: "adopte"
 tags:
   - "gris"
