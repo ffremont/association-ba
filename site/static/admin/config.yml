@@ -60,3 +60,47 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
           - {label: "Tags", name: "tags", widget: "list" }
           - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/devenir-famille-accueil.md"
+        label: "Devenir famille d'accueil"
+        name: "devenir-famille-accueil"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/soutenir.md"
+        label: "Soutenir"
+        name: "soutenir"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/nous-contacter.md"
+        label: "Nous contacter"
+        name: "nous-contacter"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/mentions-legales.md"
+        label: "Mentions légales"
+        name: "mentions-legales"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}

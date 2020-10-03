@@ -77,7 +77,7 @@ home = "Accueil"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
 # Meta data
-description = "This is meta description"
+description = "aaThis is meta description"
 # Preloader
 preloader = true
 # search
