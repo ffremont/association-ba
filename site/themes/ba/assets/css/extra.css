@@ -92,6 +92,17 @@ img.post-image{
     max-width: 300px;
 }
 
+.youtube-container{
+    width:100%;
+}
+.btn-adopter img{
+    position: fixed;
+    bottom: 30px;
+    right: 30px;
+    width: 60px;
+    border-radius: 33px;
+    box-shadow: 5px 5px 15px 5px #80808029;
+}
 @media only screen and (max-width: 600px) {
     .fiche{
         display: inline-block;

@@ -108,4 +108,9 @@
 </section>
 <!-- /blog single -->
 
+{{ if eq .Params.etat "disponible" }}
+<a href="/nous-contacter" class="btn-adopter">
+  <img src="/images/btn-contacter.png" alt="btn adopter">
+</a>
+{{end}}
 {{ end }}
