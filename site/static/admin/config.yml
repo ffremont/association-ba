@@ -29,7 +29,7 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Date de publication", name: "date", widget: "datetime"}
       - {label: "Description", name: "description", widget: "text"}
       - {label: "Image", name: "image", widget: "image"}
-      - {label: "Texte de l'image", name: "imageAlt", widget: "string"}
+      - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
       - {label: "Participation", name: "montantremoursement", widget: "number" }
       - {label: "Tags", name: "tags", widget: "list" }
       - {label: "Caractère", name: "traits", widget: "list" }
@@ -38,7 +38,7 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
-      - file: "site/content/pages/association.md"
+      - file: "site/content/association.md"
         label: "L'association"
         name: "association"
         fields:
@@ -46,5 +46,17 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/comment-adopter.md"
+        label: "Comment adopter ?"
+        name: "comment-adopter"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
           - {label: "Tags", name: "tags", widget: "list" }
           - {label: "Body", name: "body", widget: "markdown"}

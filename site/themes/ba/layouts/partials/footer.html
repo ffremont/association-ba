@@ -29,7 +29,7 @@
         <div class="item">
           <h6>Partenaires</h6>
           <div class="partners">
-            <a href="http://atlanticvet.fr/" target="_blank" class="partner">
+            <a href="https://atlanticvet.fr/" target="_blank" class="partner">
               <img src="http://atlanticvet.fr/wp-content/themes/Xenon/images/logo.png" alt="atlanticvet">
             </a>
             <a href="https://www.leclercdrive.fr/region-nouvelle-aquitaine/niort/drive-niort-mendes-france.aspx"
@@ -58,11 +58,7 @@
 
 {{ if .Site.Params.search }}
 <script>
-  var indexURL = {
-    {
-      "index.json" | absURL
-    }
-  }
+  var indexURL = {{ "index.json" | absURL }}
 </script>
 {{ end }}
 

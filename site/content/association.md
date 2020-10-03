@@ -1,12 +1,12 @@
 ---
-title: "Devenir famille d'accueil"
+title: "Association"
 date: 2020-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/devenir-famille-accueil.jpg" 
+image: "images/association.jpg"
+imageAlt: "image de l'association"
 tags:
-  - "Photos"
-  - "Finance"
+  - "infos pratiques"
 ---
 
 

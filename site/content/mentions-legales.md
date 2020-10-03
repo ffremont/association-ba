@@ -1,12 +1,11 @@
 ---
-title: "Soutenir"
+title: "Mentions légales"
 date: 2020-05-14T14:46:10+06:00
 description: "This is meta description"
 type: "featured"
-image: "images/soutenir.jpg"
+image: "images/mentions-legales.jpg"
 tags:
-  - "Photos"
-  - "Finance"
+  - "mentions"
 ---
 
 

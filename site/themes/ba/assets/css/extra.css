@@ -88,6 +88,10 @@ footer .partner img{
     text-decoration: underline;
 }
 
+img.post-image{
+    max-width: 300px;
+}
+
 @media only screen and (max-width: 600px) {
     .fiche{
         display: inline-block;
