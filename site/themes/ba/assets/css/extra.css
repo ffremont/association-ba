@@ -69,10 +69,37 @@
     font-weight: bold;
 }
 
+.fb-page{
+    width:50%;
+    max-width: 400px;
+}
+footer .partner img{
+    max-width: 100px;
+    border-radius: 10px;
+}
+
+.pre-main p{
+    text-align: center;
+    background: #ff6f00;
+    color: white;
+    padding: 10px;
+}
+.pre-main .adopt{
+    text-decoration: underline;
+}
+
 @media only screen and (max-width: 600px) {
     .fiche{
         display: inline-block;
         width: 100%;
         float: auto;
+    }
+
+    footer .items{
+        padding: 0px 20px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
     }
   }

@@ -2,7 +2,7 @@ baseurl = "/"
 languageCode = "fr-fr"
 theme = "ba"
 
-title = "Association B.A."
+title = "B.A. 79"
 summaryLength = "10"
 paginate = 50
 
@@ -72,7 +72,7 @@ weight = 6
 
 # deult parameter
 [params]
-logo = "images/asso-ba.png"
+logo = "images/logo-banner-512.png"
 home = "Accueil"
 # theme layout ( two layout is available, "1" and "2" )
 layout = "1"
@@ -84,18 +84,21 @@ preloader = true
 search = true
 # about author
 author = "Béatrice"
-author_image = "images/banner-img.png"
-bio = "I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print."
+author_image = ""
+bio = "..."
 # Contact info
 mobile = "+90 000 333 22"
-email = "exmaple@ymail.com"
-address = "6 rip carl Avenue CA 90733"
+email = "b.a.79@laposte.net"
+address = "..."
+contactUrl="/nous-contacter"
+facebookPage="https://www.facebook.com/Ici-drive-107385147684083/"
 # Contact Form Action
 contact_form_action = "#"
 # Google Analitycs
 google_analitycs_id = "Your ID"
 # copyright
-copyright = "Copyright &copy; 2020 a theme by [themefisher.com](themefisher.com)"
+copyright = "Tous droits réservés &copy; 2020"
+mentionsURL="/mentions-legales"
 
 # social site
 [[params.social]]

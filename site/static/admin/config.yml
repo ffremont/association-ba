@@ -11,19 +11,26 @@ collections: # A list of collections the CMS should be able to edit
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Titre", name: "title", widget: "string"}
-      - {label: "Date de publication", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Image", name: "image", widget: "image"}
-      - {label: "Etat", name: "etat", widget: "string" }
       - {label: "Nom", name: "nom", widget: "string" }
-      - {label: "Date de naissance", name: "datedenaissance", widget: "date", format: "DD/MM/YYYY" }
-      - {label: "Participation", name: "montantremoursement", widget: "number" }
       - label: "Sexe"
         name: "sexe"
         widget: "select"
         options:
           - {label: "Mâle", value: "M" }
           - {label: "Femelle", value: "F" }
+      - {label: "Date de naissance", name: "datedenaissance", widget: "date", format: "DD/MM/YYYY" }
+      - label: "Etat"
+        name: "etat"
+        widget: "select"
+        options:
+          - {label: "Disponible", value: "disponible" }
+          - {label: "Réservé", value: "reserve" }
+          - {label: "Adopté", value: "adopte" }
+      - {label: "Date de publication", name: "date", widget: "datetime"}
+      - {label: "Description", name: "description", widget: "text"}
+      - {label: "Image", name: "image", widget: "image"}
+      - {label: "Texte de l'image", name: "imageAlt", widget: "string"}
+      - {label: "Participation", name: "montantremoursement", widget: "number" }
       - {label: "Tags", name: "tags", widget: "list" }
       - {label: "Caractère", name: "traits", widget: "list" }
       - {label: "Soins réalisés", name: "soinsfaits", widget: "list" }

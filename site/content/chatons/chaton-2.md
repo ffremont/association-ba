@@ -4,6 +4,7 @@ date: 2020-05-15T14:46:10+06:00
 description: "This is meta description"
 type: "post"
 image: "images/chatons/exemple-5.jpg"
+imageAlt: "exemple 5 image"
 etat: "disponible"
 tags:
   - "gris"

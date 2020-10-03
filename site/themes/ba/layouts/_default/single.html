@@ -34,7 +34,7 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "02/01/2006" }}</li>
         </ul>
         <article class="content">
-          <img src="{{.Params.Image | absURL }}" alt="post-thumb" class="img-fluid rounded float-left mr-5 mb-4">
+          <img src="{{.Params.Image | absURL }}" alt='{{default "post-image" .Params.imageAlt }}' class="img-fluid rounded float-left mr-5 mb-4">
 
           <div class="fiche">
             <h6>Fiche</h6>
@@ -76,7 +76,7 @@
             {{ end }}
             {{ if isset .Params "traits" }}
             <div class="critere">
-              <div class="cname">Traits :</div>
+              <div class="cname">Caractères :</div>
               <ul>
                 {{ range .Params.traits }}
                 <li>{{.}}</li>
