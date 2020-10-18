@@ -38,6 +38,12 @@ collections: # A list of collections the CMS should be able to edit
   - name: "pages"
     label: "Pages"
     files:
+      - file: "config.toml"
+        label: "Configuration"
+        name: "conf"
+        extension: "toml"
+        fields:
+          - {label: Title, name: title, widget: string}
       - file: "site/content/association.md"
         label: "L'association"
         name: "association"
