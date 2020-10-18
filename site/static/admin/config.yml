@@ -35,15 +35,23 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Caractère", name: "traits", widget: "list" }
       - {label: "Soins réalisés", name: "soinsfaits", widget: "list" }
       - {label: "Body", name: "body", widget: "markdown"}
-  - name: "pages"
-    label: "Pages"
+  - name: "configuration"
+    label: "Configuration"
     files:
-      - file: "config.toml"
+      - file: "site/config.toml"
         label: "Configuration"
         name: "conf"
         extension: "toml"
         fields:
           - {label: Title, name: title, widget: string}
+          - label: "params"
+            name: "params"
+            widget: "object"
+            fields: 
+              - {label: "Libellé accueil", name: home, widget: string}
+  - name: "pages"
+    label: "Pages"
+    files:
       - file: "site/content/association.md"
         label: "L'association"
         name: "association"
