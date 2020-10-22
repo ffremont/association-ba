@@ -2,7 +2,7 @@
 title: une petite bavarde
 nom: Logos
 sexe: F
-datedenaissance: 22/10/2020
+datedenaissance: 21/10/2020
 etat: disponible
 date: 2020-10-22T09:55:02.666Z
 description: "Logos est une femelle de 3 mois sauvée de la rue suite à un
