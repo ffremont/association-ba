@@ -5,10 +5,7 @@ paginate = 50
 title = "B.A. 79"
 baseurl = "/"
 
-[["params.parteners"]]
-alt = "aaa"
-image = "zzzz"
-url = "llll"
+
 
 [params]
 mobile = ""
