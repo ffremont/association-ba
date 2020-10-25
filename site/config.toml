@@ -95,6 +95,10 @@ URL = "#"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
+[["params.partners"]]
+alt = "vxcvbvv"
+image = "nnn"
+url = "ooo"
 
 [menu]
 
