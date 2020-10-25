@@ -46,7 +46,7 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - label: "Partenaires"
-            name: "params.partners"
+            name: params.partners
             widget: "list"
             fields: 
               - {label: "Image textuelle (SEO)", name: alt, widget: string}

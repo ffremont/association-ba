@@ -95,10 +95,6 @@ URL = "#"
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 
-[["params.partners"]]
-alt = "eeee"
-image = "ttttt"
-url = "iiii"
 
 [menu]
 
