@@ -1,6 +1,7 @@
 ---
 title: une petite bavarde
 nom: Logos
+type: post
 sexe: F
 datedenaissance: 21/10/2020
 etat: disponible
