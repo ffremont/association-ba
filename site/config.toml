@@ -5,8 +5,6 @@ paginate = 50
 title = "B.A. 79"
 baseurl = "/"
 
-
-
 [params]
 mobile = ""
 mentionsURL = "/mentions-legales"
@@ -96,6 +94,11 @@ URL = "#"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+
+[["params.partners"]]
+alt = "eeee"
+image = "ttttt"
+url = "iiii"
 
 [menu]
 
