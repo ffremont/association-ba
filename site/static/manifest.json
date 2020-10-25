@@ -3,7 +3,7 @@
     "short_name": "B.A. 79",
     "theme_color": "#ff6f00",
     "background_color": "#ffffff",
-    "display": "browser",
+    "display": "standalone",
     "scope": "/",
     "start_url": "/",
     "icons": [
