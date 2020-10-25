@@ -1,48 +1,106 @@
-baseurl = "/"
 languageCode = "fr-fr"
 theme = "ba"
-
-title = "B.A. 79"
 summaryLength = "10"
 paginate = 50
+title = "B.A. 79"
+baseurl = "/"
 
-# output
-[outputs]
-home = ["HTML", "RSS", "JSON"]
+[["params.parteners"]]
+alt = "aaa"
+image = "zzzz"
+url = "llll"
 
-# CSS Plugins
+[params]
+mobile = ""
+mentionsURL = "/mentions-legales"
+author_image = ""
+copyright = "Tous droits réservés &copy; 2020"
+bio = "..."
+search = true
+layout = "1"
+author = "Béatrice"
+logo = "images/logo-banner-512.png"
+contactUrl = "/nous-contacter"
+contact_form_action = "#"
+address = "..."
+facebookPage = "https://www.facebook.com/Ici-drive-107385147684083/"
+preloader = true
+google_analitycs_id = "Your ID"
+email = "b.a.79@laposte.net"
+description = "aaThis is meta description"
+home = "Accueil"
+
+[params.plugins]
+
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
+
 [[params.plugins.css]]
 link = "plugins/slick/slick.css"
+
 [[params.plugins.css]]
 link = "plugins/themify-icons/themify-icons.css"
 
-# JS Plugins
 [[params.plugins.js]]
 link = "plugins/jQuery/jquery.min.js"
+
 [[params.plugins.js]]
 link = "plugins/bootstrap/bootstrap.min.js"
+
 [[params.plugins.js]]
 link = "plugins/slick/slick.min.js"
+
 [[params.plugins.js]]
 link = "plugins/headroom/headroom.js"
+
 [[params.plugins.js]]
 link = "plugins/instafeed/instafeed.min.js"
+
 [[params.plugins.js]]
 link = "plugins/masonry/masonry.js"
+
 [[params.plugins.js]]
 link = "plugins/reading-time/readingTime.min.js"
+
 [[params.plugins.js]]
 link = "plugins/smooth-scroll/smooth-scroll.js"
+
 [[params.plugins.js]]
 link = "plugins/search/fuse.min.js"
+
 [[params.plugins.js]]
 link = "plugins/search/mark.js"
+
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 
-# navigation
+[[params.partners]]
+alt = "logo atlanticvet"
+url = "https://atlanticvet.fr"
+image = "http://atlanticvet.fr/wp-content/themes/Xenon/images/logo.png"
+
+[[params.partners]]
+alt = "leclerc-drive"
+url = "https://fd13-courses.leclercdrive.fr/magasin-077901-niort-centre-ville.aspx"
+image = "https://cdn.clc2l.com/c/thumbnail510/t/l/e/leclercdrive-leclercchezmoi-wFnkeE.png"
+
+[[params.partners]]
+alt = "CROQUETTERIE-niort"
+url = "https://www.lacroquetterie.com/"
+image = "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/p960x960/83931300_127414355431631_967458808106319872_o.png?_nc_cat=100&_nc_sid=85a577&_nc_ohc=JTRXv-wpYuIAX8Tp6JE&_nc_ht=scontent-cdg2-1.xx&oh=1dcc6642c0ab981238639230b2de565a&oe=5F9C6C0B"
+
+[[params.social]]
+icon = "ti-facebook"
+URL = "#"
+
+[[params.social]]
+icon = "ti-twitter-alt"
+URL = "#"
+
+[outputs]
+home = ["HTML", "RSS", "JSON"]
+
+[menu]
 
 [[menu.main]]
 name = "Comment adopter ?"
@@ -68,59 +126,3 @@ weight = 5
 name = "Nous contacter"
 URL = "nous-contacter"
 weight = 6
-
-
-[[params.partners]]
-alt = "logo atlanticvet"
-url = "https://atlanticvet.fr"
-image = "http://atlanticvet.fr/wp-content/themes/Xenon/images/logo.png"
-
-[[params.partners]]
-alt = "leclerc-drive"
-url = "https://fd13-courses.leclercdrive.fr/magasin-077901-niort-centre-ville.aspx"
-image = "https://cdn.clc2l.com/c/thumbnail510/t/l/e/leclercdrive-leclercchezmoi-wFnkeE.png"
-
-[[params.partners]]
-alt = "CROQUETTERIE-niort"
-url = "https://www.lacroquetterie.com/"
-image = "https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/p960x960/83931300_127414355431631_967458808106319872_o.png?_nc_cat=100&_nc_sid=85a577&_nc_ohc=JTRXv-wpYuIAX8Tp6JE&_nc_ht=scontent-cdg2-1.xx&oh=1dcc6642c0ab981238639230b2de565a&oe=5F9C6C0B"
-
-# deult parameter
-[params]
-logo = "images/logo-banner-512.png"
-home = "Accueil"
-# theme layout ( two layout is available, "1" and "2" )
-layout = "1"
-# Meta data
-description = "aaThis is meta description"
-# Preloader
-preloader = true
-# search
-search = true
-# about author
-author = "Béatrice"
-author_image = ""
-bio = "..."
-# Contact info
-mobile = ""
-email = "b.a.79@laposte.net"
-address = "..."
-contactUrl="/nous-contacter"
-facebookPage="https://www.facebook.com/Ici-drive-107385147684083/"
-# Contact Form Action
-contact_form_action = "#"
-# Google Analitycs
-google_analitycs_id = "Your ID"
-# copyright
-copyright = "Tous droits réservés &copy; 2020"
-mentionsURL="/mentions-legales"
-
-# social site
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
-
-[[params.social]]
-icon = "ti-twitter-alt"
-URL = "#"
-
