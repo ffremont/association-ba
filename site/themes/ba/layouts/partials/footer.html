@@ -29,19 +29,13 @@
         <div class="item">
           <h6>Partenaires</h6>
           <div class="partners">
-            <a href="https://atlanticvet.fr/" target="_blank" class="partner">
-              <img src="http://atlanticvet.fr/wp-content/themes/Xenon/images/logo.png" alt="atlanticvet">
-            </a>
-            <a href="https://www.leclercdrive.fr/region-nouvelle-aquitaine/niort/drive-niort-mendes-france.aspx"
-              target="_blank" class="partner">
-              <img src="https://cdn.clc2l.com/c/thumbnail510/t/l/e/leclercdrive-leclercchezmoi-wFnkeE.png"
-                alt="leclerc-drive">
-            </a>
-            <a href="https://www.lacroquetterie.com/la-croquetterie-niort.html" target="_blank" class="partner">
-              <img
-                src="https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-9/p960x960/83931300_127414355431631_967458808106319872_o.png?_nc_cat=100&_nc_sid=85a577&_nc_ohc=JTRXv-wpYuIAX8Tp6JE&_nc_ht=scontent-cdg2-1.xx&oh=1dcc6642c0ab981238639230b2de565a&oe=5F9C6C0B"
-                alt="CROQUETTERIE-niort">
-            </a>
+            {{ range .Site.Params.partners }}
+              <a href="{{.url}}" target="_blank" class="partner">
+                <img src="{{.image}}" alt="{{.alt}}"/>
+              </a>
+            {{ end }}
+
+
 
           </div>
 
