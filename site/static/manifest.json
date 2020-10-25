@@ -1,0 +1,26 @@
+{
+    "name": "Association B.A. 79",
+    "short_name": "B.A. 79",
+    "theme_color": "#ff6f00",
+    "background_color": "#ffffff",
+    "display": "browser",
+    "scope": "/",
+    "start_url": "/",
+    "icons": [
+        {
+          "src": "images/favicon.png",
+          "sizes": "64x64 32x32 24x24 16x16",
+          "type": "image/x-icon"
+        },
+        {
+          "src": "images/logo-ba-square-192x192.png",
+          "type": "image/png",
+          "sizes": "192x192"
+        },
+        {
+          "src": "images/logo-ba-square-512x512.png",
+          "type": "image/png",
+          "sizes": "512x512"
+        }
+      ]
+  }
