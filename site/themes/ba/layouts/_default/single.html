@@ -67,7 +67,14 @@
             {{ end }}
             {{ if isset .Params "datedenaissance" }}
             <div class="critere">
-              <span class="cname">Né le</span> : <span class="cvalue">{{.Params.datedenaissance}}</span>
+              <span class="cname">
+                {{ if eq .Params.sexe "M" }}
+                Né le
+                {{ end }}
+                {{ if eq .Params.sexe "F" }}
+                Née le
+                {{ end }}
+              </span> : <span class="cvalue">{{.Params.datedenaissance}}</span>
             </div>
             {{ end }}
             {{ if isset .Params "montantremoursement" }}

@@ -32,9 +32,9 @@ collections: # A list of collections the CMS should be able to edit
       - {label: "Image", name: "image", widget: "image"}
       - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
       - {label: "Participation", name: "montantremoursement", widget: "number" }
-      - {label: "Tags", name: "tags", widget: "list" }
+      - {label: "Tags", name: "tags", widget: "list", required: false }
       - {label: "Caractère", name: "traits", widget: "list" }
-      - {label: "Soins réalisés", name: "soinsfaits", widget: "list" }
+      - {label: "Soins réalisés", name: "soinsfaits", widget: "list", required: false }
       - {label: "Body", name: "body", widget: "markdown"}
   - name: "admin"
     label: "Administration"
@@ -77,7 +77,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/comment-adopter.md"
         label: "Comment adopter ?"
@@ -88,7 +88,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/devenir-famille-accueil.md"
         label: "Devenir famille d'accueil"
@@ -99,7 +99,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/soutenir.md"
         label: "Soutenir"
@@ -110,7 +110,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/nous-contacter.md"
         label: "Nous contacter"
@@ -121,7 +121,7 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/content/mentions-legales.md"
         label: "Mentions légales"
@@ -132,5 +132,5 @@ collections: # A list of collections the CMS should be able to edit
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
           - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
-          - {label: "Tags", name: "tags", widget: "list" }
+          - {label: "Tags", name: "tags", widget: "list", required: false }
           - {label: "Body", name: "body", widget: "markdown"}

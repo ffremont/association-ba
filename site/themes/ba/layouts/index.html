@@ -80,7 +80,12 @@
                   Reservé
               {{ end }}
               {{ if eq .Params.etat "adopte" }}
-                  Adopté
+                  {{ if eq .Params.sexe "M" }}
+                    Adopté
+                  {{ end }}
+                  {{ if eq .Params.sexe "F" }}
+                    Adoptée
+                    {{ end }}
               {{ end }}
             </div> 
           <!--p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p-->
