@@ -29,7 +29,7 @@
         <div class="item">
           <h6>Partenaires</h6>
           <div class="partners">
-            {{ range .Site.Params.partners }}
+            {{ range .Site.Data.partners.entries }}
               <a href="{{.url}}" target="_blank" class="partner">
                 <img src="{{.image}}" alt="{{.alt}}"/>
               </a>

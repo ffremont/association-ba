@@ -45,13 +45,6 @@ collections: # A list of collections the CMS should be able to edit
         extension: "toml"
         fields:
           - {label: Title, name: title, widget: string}
-          - label: "Partenaires"
-            name: params.partners
-            widget: "list"
-            fields: 
-              - {label: "Image textuelle (SEO)", name: alt, widget: string}
-              - {label: "URL de l'image", name: image, widget: string}
-              - {label: "Lien", name: url, widget: string}
           - label: "params"
             name: "params"
             widget: "object"
@@ -60,6 +53,18 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Description (SEO)", name: description, widget: string}
               - {label: "Email", name: email, widget: string}
               - {label: "Page Facebook", name: facebookPage, widget: string}
+      - file: "site/data/partners.toml"  
+        label: "Partenaires"
+        name: "partners"
+        extension: "toml"
+        fields:
+          - label: "Partenaires"
+            name: entries
+            widget: "list"
+            fields: 
+              - {label: "Image textuelle (SEO)", name: alt, widget: string}
+              - {label: "URL de l'image", name: image, widget: string}
+              - {label: "Lien", name: url, widget: string}
   - name: "pages"
     label: "Pages"
     files:
