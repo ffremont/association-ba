@@ -1,7 +1,7 @@
 ---
 title: une petite bavarde
-nom: Logos
 type: post
+nom: Logos
 sexe: F
 datedenaissance: 21/10/2020
 etat: disponible
@@ -11,7 +11,7 @@ description: "Logos est une femelle de 3 mois sauvée de la rue suite à un
   jouer, faire des câlins. Elle est propre et mange des croquettes.
   L'association B.A.79 demande une participation de 170 euros lors de l'adoption
   afin de pouvoir sauver d'autres minous. "
-image: images/adopter.jpg
+image: images/20201020_101541.jpg
 imageAlt: Logos adore les câlins.
 montantremoursement: 170
 tags:
