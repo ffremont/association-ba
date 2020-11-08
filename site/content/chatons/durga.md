@@ -26,4 +26,6 @@ soinsfaits:
   - vaccinée
   - déparasitée
 ---
+![](images/rsz_20201011_184118.jpg "Les inséparables")
+
 Durga est un chaton femelle abandonnée et sauvée de l'euthanasie à 1 mois. Durga est de couleur rousse et blanche Elle adore les câlins et les caresses. Elle est propre et mange des croquettes. Elle joue et dort souvent avec son frère Hypnos, également à l’adoption. Durga est adoptable avec son frère Hypnos. Durga est très attachée et attentive à son frère Hypnos. Elle ronronne beaucoup. Durga est identifiée, vaccinée et déparasitée. L'association B.A.79 demande une participation de 284 euros pour les deux afin de pouvoir sauver d'autres minous. Le coût des identifications est offert.
