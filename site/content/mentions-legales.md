@@ -1,11 +1,11 @@
 ---
-title: "Mentions légales"
+title: Mentions légales
 date: 2020-05-14T14:46:10+06:00
-description: "This is meta description"
-image: "images/mentions-legales.jpg"
-imageAlt: "tampon"
+description: Officiel
+image: images/mentions-legales.jpg
+imageAlt: tampon
 tags:
-  - "mentions"
+  - mentions
 ---
 
 ### Identité
