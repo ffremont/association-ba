@@ -6,7 +6,7 @@ description: "Famille d'accueil, c'est être là quand les minous ont besoin
   quand ils sont prêts. "
 type: featured
 image: images/devenir-famille-accueil.jpg
-imageAlt: amour, douceur, attention et vigilance
+imageAlt: amour, douceur, attention, soin et vigilance
 tags:
   - accueil
   - soins
