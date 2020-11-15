@@ -103,6 +103,10 @@ img.post-image{
     border-radius: 33px;
     box-shadow: 5px 5px 15px 5px #80808029;
 }
+
+.sociaux{
+    text-align: center;
+}
 @media only screen and (max-width: 600px) {
     .fiche{
         display: inline-block;
@@ -116,5 +120,11 @@ img.post-image{
         align-items: center;
         justify-content: center;
         flex-direction: column;
+    }
+
+    .item.partner{
+        margin-top: 20px;
+        margin-bottom: 20px;
+        text-align: center;
     }
   }

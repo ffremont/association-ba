@@ -20,7 +20,7 @@ contact_form_action = "#"
 address = "..."
 mainModal=true
 urlSoutenir="/soutenir"
-facebookPage = "https://www.facebook.com/Ici-drive-107385147684083/"
+facebookPage = "https://www.facebook.com/AssociationB.A.79"
 preloader = true
 google_analitycs_id = "UA-181036051-1"
 email = "b.a.79@laposte.net"
@@ -72,13 +72,13 @@ link = "plugins/search/mark.js"
 link = "plugins/search/search.js"
 
 
-[[params.social]]
-icon = "ti-facebook"
-URL = "#"
+#[[params.social]]
+#icon = "ti-facebook"
+#URL = "#"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-URL = "#"
+URL = "https://twitter.com/AssociationBA79"
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

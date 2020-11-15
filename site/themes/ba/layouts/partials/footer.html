@@ -12,21 +12,14 @@
           </ul>
         </div-->
 
-        <!--div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Nous suivre</h6>
-          <ul class="list-inline d-inline-block">
-            {{ range .Site.Params.social }}
-            <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
-            {{ end }}
-          </ul>
-        </div-->
+        
         <div class="item fb-page" data-href="{{.Site.Params.facebookPage}}" data-tabs="journal"
           data-width="" data-height="200" data-small-header="false" data-adapt-container-width="true"
           data-hide-cover="false" data-show-facepile="false">
           <blockquote cite="{{.Site.Params.facebookPage}}" class="fb-xfbml-parse-ignore"><a
               href="{{.Site.Params.facebookPage}}">Ici-drive</a></blockquote>
         </div>
-        <div class="item">
+        <div class="item partner">
           <h6>Partenaires</h6>
           <div class="partners">
             {{ range .Site.Data.partners.entries }}
@@ -36,6 +29,14 @@
             {{ end }}
           </div>
 
+        </div>
+        <div class="sociaux col-md-3 col-sm-6 mb-4 mb-md-0">
+          <h6></h6>
+          <ul class="list-inline d-inline-block">
+            {{ range .Site.Params.social }}
+            <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
+            {{ end }}
+          </ul>
         </div>
       </div>
     </div>
