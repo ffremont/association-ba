@@ -18,6 +18,7 @@ logo = "images/logo-banner-512.png"
 contactUrl = "/nous-contacter"
 contact_form_action = "#"
 address = "..."
+mainModal=true
 urlSoutenir="/soutenir"
 facebookPage = "https://www.facebook.com/Ici-drive-107385147684083/"
 preloader = true
