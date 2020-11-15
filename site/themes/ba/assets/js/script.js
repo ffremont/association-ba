@@ -45,12 +45,12 @@
   });
 
   // Masonry
-  setTimeout(function(){
+  $(window).on('load', function () {
     $('.masonry-container').masonry({
       itemSelector: '.masonry-container > div',
       columnWidth: 1
     });
-  }, 500);
+  });
 
 
   // instafeed
