@@ -12,6 +12,18 @@
           {{ if eq .Params.sexe "F" }}
           <span class="c-sexe">&#9792;</span>
           {{ end }}
+          {{ if eq .Params.sexe "MF" }}
+          <span class="c-sexe">&#9794;&#9792;</span>
+          {{ end }}
+          {{ if eq .Params.sexe "FM" }}
+          <span class="c-sexe">&#9792;&#9794;</span>
+          {{ end }}
+          {{ if eq .Params.sexe "MM" }}
+          <span class="c-sexe">&#9794;&#9794;</span>
+          {{ end }}
+          {{ if eq .Params.sexe "FF" }}
+          <span class="c-sexe">&#9792;&#9792;</span>
+          {{ end }}
         </h4>
         <h5>
           {{ if isset .Params "datedenaissance" }}
@@ -34,7 +46,8 @@
           <li class="list-inline-item"><i class="ti-calendar mr-2"></i>{{ .PublishDate.Format "02/01/2006" }}</li>
         </ul>
         <article class="content">
-          <img src="{{.Params.Image | absURL }}" alt='{{default "post-image" .Params.imageAlt }}' class="post-image img-fluid rounded float-left mr-5 mb-4">
+          <img src="{{.Params.Image | absURL }}" alt='{{default "post-image" .Params.imageAlt }}'
+            class="post-image img-fluid rounded float-left mr-5 mb-4">
 
           {{ if isset .Params "nom" }}
           <div class="fiche">

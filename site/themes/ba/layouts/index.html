@@ -83,9 +83,15 @@
                   {{ if eq .Params.sexe "M" }}
                     Adopté
                   {{ end }}
+                  {{ if in "MM MF FM" .Params.sexe }}
+                    Adoptés
+                  {{ end }}
                   {{ if eq .Params.sexe "F" }}
                     Adoptée
                     {{ end }}
+                    {{ if eq .Params.sexe "FF" }}
+                    Adoptées
+                  {{ end }}
               {{ end }}
             </div> 
           <!--p class="text-uppercase mb-2">{{range .Params.Categories}}{{. | humanize}}{{end}}</p-->

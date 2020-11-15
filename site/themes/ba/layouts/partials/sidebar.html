@@ -20,11 +20,23 @@
         <h6><a class="text-dark" href="{{ .Permalink }}">
           {{.Title}}
           {{ if eq .Params.sexe "M" }}
-          <span class="c-sexe">&#9794;</span>
-          {{ end }}
-          {{ if eq .Params.sexe "F" }}
-          <span class="c-sexe">&#9792;</span>
-          {{ end }}
+                  <span class="c-sexe">&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "F" }}
+                  <span class="c-sexe">&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MF" }}
+                  <span class="c-sexe">&#9794;&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FM" }}
+                  <span class="c-sexe">&#9792;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MM" }}
+                  <span class="c-sexe">&#9794;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FF" }}
+                  <span class="c-sexe">&#9792;&#9792;</span>
+                  {{ end }}
         </a></h6>
       </div>
     </div>

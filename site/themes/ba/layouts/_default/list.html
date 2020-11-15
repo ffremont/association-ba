@@ -24,17 +24,29 @@
           <div class="col-sm-6 mb-5">
             <article class="text-center">
               <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
-            
+
               <p class="text-uppercase mb-2">{{ .Params.Categories }}</p>
               <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">
-                {{.Title}}
-                {{ if eq .Params.sexe "M" }}
-          <span class="c-sexe">&#9794;</span>
-          {{ end }}
-          {{ if eq .Params.sexe "F" }}
-          <span class="c-sexe">&#9792;</span>
-          {{ end }}
-              </a></h4>
+                  {{.Title}}
+                  {{ if eq .Params.sexe "M" }}
+                  <span class="c-sexe">&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "F" }}
+                  <span class="c-sexe">&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MF" }}
+                  <span class="c-sexe">&#9794;&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FM" }}
+                  <span class="c-sexe">&#9792;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MM" }}
+                  <span class="c-sexe">&#9794;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FF" }}
+                  <span class="c-sexe">&#9792;&#9792;</span>
+                  {{ end }}
+                </a></h4>
               <p>{{ .Summary }}</p>
               <a href="{{.Permalink}}" class="btn btn-transparent">lire plus</a>
             </article>
@@ -50,7 +62,7 @@
             <article data-file="{{.Permalink}}" data-target="article"
               class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
               <div class="post-image">
-                
+
                 <img class="img-fluid" src="{{ .Params.Image | absURL }}" alt="post-thumb">
               </div>
               <div class="post-content">
