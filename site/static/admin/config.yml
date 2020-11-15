@@ -69,7 +69,7 @@ collections: # A list of collections the CMS should be able to edit
             fields: 
               - {label: "Image textuelle (SEO)", name: alt, widget: string}
               - {label: "URL de l'image", name: image, widget: string}
-              - {label: "Lien", name: url, widget: string}
+              - {label: "Image", name: url, widget: image}
   - name: "pages"
     label: "Pages"
     files:

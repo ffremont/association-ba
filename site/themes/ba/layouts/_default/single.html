@@ -68,25 +68,35 @@
               </span>
             </div>
             <div class="critere">
-              <span class="cname">Nom</span> : <span class="cvalue">{{.Params.nom}}</span>
+             
+              {{ if in "_M_F_" (printf "_%s_" .Params.sexe) }} <span class="cname">Nom</span>{{ end }}
+              {{ if in "_MM_FF_MF_FM_" (printf "_%s_" .Params.sexe) }} <span class="cname">Noms</span>{{ end }}
+              : <span class="cvalue">{{.Params.nom}}</span>
             </div>
             {{ if isset .Params "sexe" }}
             <div class="critere">
-              <span class="cname">Sexe</span> : <span class="cvalue">
+              
+              {{ if in "_M_F_" (printf "_%s_" .Params.sexe) }} <span class="cname">Sexe</span> {{ end }}
+              {{ if in "_MM_FF_MF_FM_" (printf "_%s_" .Params.sexe) }} <span class="cname">Sexes</span> {{ end }}
+              : <span class="cvalue">
                 {{ if eq .Params.sexe "M" }}Mâle{{ end }}
                 {{ if eq .Params.sexe "F" }}Femelle{{ end }}
+                {{ if eq .Params.sexe "MM" }}Mâle & Mâle{{ end }}
+                {{ if eq .Params.sexe "FF" }}Femelle & Femelle{{ end }}
+                {{ if eq .Params.sexe "FM" }}Femelle & Mâle{{ end }}
+                {{ if eq .Params.sexe "MF" }}Mâle & Femelle{{ end }}
               </span>
             </div>
             {{ end }}
             {{ if isset .Params "datedenaissance" }}
             <div class="critere">
               <span class="cname">
-                {{ if eq .Params.sexe "M" }}
-                Né le
-                {{ end }}
-                {{ if eq .Params.sexe "F" }}
-                Née le
-                {{ end }}
+                {{ if eq .Params.sexe "M" }}Né le {{ end }}
+                {{ if eq .Params.sexe "F" }}Née le{{ end }}
+                {{ if eq .Params.sexe "MM" }}Nés le{{ end }}
+                {{ if eq .Params.sexe "FF" }}Nées le{{ end }}
+                {{ if eq .Params.sexe "FM" }}Nés le{{ end }}
+                {{ if eq .Params.sexe "MF" }}Nés le{{ end }}
               </span> : <span class="cvalue">{{.Params.datedenaissance}}</span>
             </div>
             {{ end }}

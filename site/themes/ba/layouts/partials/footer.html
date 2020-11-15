@@ -31,12 +31,9 @@
           <div class="partners">
             {{ range .Site.Data.partners.entries }}
               <a href="{{.url}}" target="_blank" class="partner">
-                <img src="{{.image}}" alt="{{.alt}}"/>
+                <img src="{{.image | absURL}}" alt="{{.alt}}"/>
               </a>
             {{ end }}
-
-
-
           </div>
 
         </div>
@@ -91,3 +88,6 @@
       .catch(e => console.error(e));
   }
 </script>
+
+<script src="/tingle/tingle.min.js"></script>
+<script src="/js/theme.js"></script>

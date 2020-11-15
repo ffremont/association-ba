@@ -74,16 +74,32 @@
           <div class="disponibilite {{.Params.etat}}">
               <span class="etat"></span> 
               {{ if eq .Params.etat "disponible" }}
-                  Disponible
+                  
+                  {{ if in "_M_F_" (printf "_%s_" .Params.sexe)}}
+                    Disponible
+                  {{ else }}
+                    Disponibles
+                  {{ end }}
               {{ end }}
               {{ if eq .Params.etat "reserve" }}
-                  Reservé
+              {{ if eq .Params.sexe "M" }}
+              Réservé
+            {{ end }}
+            {{ if in "_MM_MF_FM_" (printf "_%s_" .Params.sexe) }}
+              Réservés
+            {{ end }}
+            {{ if eq .Params.sexe "F" }}
+              Réservée
+              {{ end }}
+              {{ if eq .Params.sexe "FF" }}
+              Réservées
+            {{ end }}
               {{ end }}
               {{ if eq .Params.etat "adopte" }}
                   {{ if eq .Params.sexe "M" }}
                     Adopté
                   {{ end }}
-                  {{ if in "MM MF FM" .Params.sexe }}
+                  {{ if in "_MM_MF_FM_" (printf "_%s_" .Params.sexe) }}
                     Adoptés
                   {{ end }}
                   {{ if eq .Params.sexe "F" }}
@@ -99,11 +115,23 @@
           <h4 class="title-border"><a class="text-dark" href="{{.Permalink}}">
               {{.Title}}
               {{ if eq .Params.sexe "M" }}
-              <span class="c-sexe">&#9794;</span>
-              {{ end }}
-              {{ if eq .Params.sexe "F" }}
-              <span class="c-sexe">&#9792;</span>
-              {{ end }}
+                  <span class="c-sexe">&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "F" }}
+                  <span class="c-sexe">&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MF" }}
+                  <span class="c-sexe">&#9794;&#9792;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FM" }}
+                  <span class="c-sexe">&#9792;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "MM" }}
+                  <span class="c-sexe">&#9794;&#9794;</span>
+                  {{ end }}
+                  {{ if eq .Params.sexe "FF" }}
+                  <span class="c-sexe">&#9792;&#9792;</span>
+                  {{ end }}
             </a></h4>
           <p>{{.Summary}}</p>
           <a href="{{.Permalink}}" class="btn btn-transparent">lire plus</a>
