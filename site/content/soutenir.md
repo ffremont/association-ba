@@ -18,8 +18,12 @@ Je souhaite adhérer en tant que mineur à B.A.79 : je paie une cotisation de 5 
 
 Les membres assistent et votent à l'assemblée générale annuelle. Ils participent à la vie de l'association. 
 
+<https://docs.google.com/forms/d/1HaH4c0uK08kji4Z4xwd47aAxNdV9oV90t9_n2u4FDQM/edit>
+
 **Le don** : 
 
 L’association B.A.79 est reconnue d’intérêt général donc tout don donne droit à une défiscalisation de ce montant à la hauteur de 66% dans une limite de 20% du montant du revenu imposable
+
+<https://docs.google.com/forms/d/1xfK9ZtVwUXY_fWvjP3XCgXrwdhsOWX8XG0Bns2UoWSk/edit>
 
 **Les opérations de solidarité** : vente de chocolats, vente de crayons, de T-Shirt ...
