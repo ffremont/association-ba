@@ -59,6 +59,28 @@ collections: # A list of collections the CMS should be able to edit
               - {label: "Activation de la modale", name: mainModal, widget: boolean}
               - {label: "Identifiant Google analitycs", name: google_analitycs_id, widget: string}
               - {label: "Page Facebook", name: facebookPage, widget: string}
+      - file: "site/content/merci.md"
+        label: "Merci (don)"
+        name: "merci"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list", required: false }
+          - {label: "Body", name: "body", widget: "markdown"}
+      - file: "site/content/erreur-don.md"
+        label: "Erreur (don)"
+        name: "erreur-don"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Date de publication", name: "date", widget: "datetime"}
+          - {label: "Description", name: "description", widget: "text"}
+          - {label: "Image", name: "image", widget: "image"}
+          - {label: "Image alt (SEO)", name: "imageAlt", widget: "string"}
+          - {label: "Tags", name: "tags", widget: "list", required: false }
+          - {label: "Body", name: "body", widget: "markdown"}
       - file: "site/data/partners.toml"  
         label: "Partenaires"
         name: "partners"
