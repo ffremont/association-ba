@@ -24,6 +24,7 @@ Les membres assistent et votent à l'assemblée générale annuelle. Ils partici
 
 L’association B.A.79 est reconnue d’intérêt général donc tout don donne droit à une défiscalisation de ce montant à la hauteur de 66% dans une limite de 20% du montant du revenu imposable
 
-<https://docs.google.com/forms/d/1xfK9ZtVwUXY_fWvjP3XCgXrwdhsOWX8XG0Bns2UoWSk/edit>
+{{< ba-link title="Faire un don" url="http://payrequest.me/ba79" >}}
+
 
 **Les opérations de solidarité** : vente de chocolats, vente de crayons, de T-Shirt ...

@@ -107,6 +107,22 @@ img.post-image{
 .sociaux{
     text-align: center;
 }
+
+.ba-link-container{
+    text-align: center;
+}
+a.ba-link{
+    background: #ff6f00;
+    padding: 10px 20px;
+    color: white;
+    font-weight: bold;
+}
+a.ba-link:visited{
+    color: white;
+}
+a.hover{
+    text-decoration: underline;
+}
 @media only screen and (max-width: 600px) {
     .fiche{
         display: inline-block;
