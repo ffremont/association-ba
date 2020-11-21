@@ -5,7 +5,13 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12">
-        <h4>{{ .Title }}
+        <h4>
+          {{ .Title }}
+          {{ if .Params.linkTitle }}
+          <div class="ba-link-container">
+            <a class="ba-link" href="{{- .Params.linkUrl -}}" target="_blank">{{- .Params.linkTitle -}}</a>
+          </div>
+          {{ end }}
           {{ if eq .Params.sexe "M" }}
           <span class="c-sexe">&#9794;</span>
           {{ end }}

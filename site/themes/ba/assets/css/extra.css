@@ -108,8 +108,18 @@ img.post-image{
     text-align: center;
 }
 
+section .container{
+    word-break: break-word;
+}
+
 .ba-link-container{
     text-align: center;
+}
+h4 .ba-link-container{
+    float:right;
+}
+h4 .ba-link-container a{
+    border-radius: 3px;
 }
 a.ba-link{
     background: #ff6f00;

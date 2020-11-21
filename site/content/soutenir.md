@@ -3,6 +3,8 @@ title: Soutenir
 date: 2020-05-14T14:46:10+06:00
 description: Seul, je vais plus vite, ensemble, nous allons plus loin !
 type: featured
+linkTitle: Faire un don
+linkUrl: http://payrequest.me/ba79
 image: images/soutenir.jpg
 imageAlt: La solidarité
 tags:

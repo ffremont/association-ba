@@ -101,6 +101,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "association"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Bouton page - titre, name: linkTitle, widget: string}
+          - {label: Bouton page - url, name: linkUrl, widget: string}
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
@@ -112,6 +114,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "comment-adopter"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Bouton page - titre, name: linkTitle, widget: string}
+          - {label: Bouton page - url, name: linkUrl, widget: string}
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
@@ -123,6 +127,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "devenir-famille-accueil"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Bouton page - titre, name: linkTitle, widget: string}
+          - {label: Bouton page - url, name: linkUrl, widget: string}
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
@@ -134,6 +140,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "soutenir"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Bouton page - titre, name: linkTitle, widget: string}
+          - {label: Bouton page - url, name: linkUrl, widget: string}
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
@@ -145,6 +153,8 @@ collections: # A list of collections the CMS should be able to edit
         name: "nous-contacter"
         fields:
           - {label: Title, name: title, widget: string}
+          - {label: Bouton page - titre, name: linkTitle, widget: string}
+          - {label: Bouton page - url, name: linkUrl, widget: string}
           - {label: "Date de publication", name: "date", widget: "datetime"}
           - {label: "Description", name: "description", widget: "text"}
           - {label: "Image", name: "image", widget: "image"}
