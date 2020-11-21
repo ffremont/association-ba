@@ -30,6 +30,6 @@ soinsfaits:
 ---
 Martin est un chaton mâle né le 19 avril 2020. Il a été sauvé de l'abandon et de l'euthanasie. Martin est un très beau et grand chat d'une tendresse inouïe. Il adore les caresses et le jeu avec les enfants. Il est heureux de vivre ! Il est propre et mange des croquettes. A l'adoption, l'association B.A.79 demande un remboursement de frais (identification, stérilisation, test Felv/Fiv, vaccination, antiparasites) d'un montant de 230 euros afin de pouvoir sauver d'autres chats.
 
-**{{< youtube id="**[](https://youtu.be/Dj_Al84BPA4)Dj_Al84BPA4**" >}}**
+**{{< youtube id="Dj_Al84BPA4" >}}**
 
 ![](images/rsz_img_4249.jpg "Martin est toujours très calme")
