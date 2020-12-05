@@ -4,7 +4,7 @@ type: post
 nom: Derma
 sexe: M
 datedenaissance: 23/08/2020
-etat: disponible
+etat: adopte
 date: 2020-10-31T17:10:25.223Z
 description: Mâle né le 23 août 2020
 image: images/derma.jpg
