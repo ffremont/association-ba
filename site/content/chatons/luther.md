@@ -4,7 +4,7 @@ type: post
 nom: Luther
 sexe: M
 datedenaissance: 19/04/2020
-etat: reserve
+etat: adopte
 date: 2020-11-08T18:15:21.360Z
 description: "Luther est très, très câlin. "
 image: images/rsz_img_4291.jpg
