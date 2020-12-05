@@ -4,7 +4,7 @@ type: post
 nom: Logos
 sexe: F
 datedenaissance: 23/08/2020
-etat: disponible
+etat: adopte
 date: 2020-10-22T09:55:02.666Z
 description: "Logos est une femelle sauvée de la rue suite à un abandon à 3
   semaines. Elle est tigrée grise. Elle adore parler, ronronner, jouer, faire
