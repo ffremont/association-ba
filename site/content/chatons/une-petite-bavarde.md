@@ -25,7 +25,6 @@ traits:
   - câline
   - ""
 soinsfaits:
-  - allaitement durant 3 semaines
   - sevrage
   - identification
   - vaccination
