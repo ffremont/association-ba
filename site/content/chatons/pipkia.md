@@ -29,7 +29,7 @@ soinsfaits:
   - vaccination
   - déparasité
   - testé felv/fiv négatif
-  - déjà stérilisé avant son sauvetage.
+  - stérilisé
 ---
 Pipkia est un jeune chat né environ le 13/11/2017 sauvé de la rue par une personne attentive aux animaux. L'association B.A.79 l'a recueilli et l'a préparé pour son adoption. Pipkia est timide au premier contact puis il prend confiance et il se révèle être un très gentil matou. Il adore être caressé. Il fait de grosses siestes lors desquelles il s'étend tout ventre à l'air. Il est tout blanc aux yeux verts. Il est propre et mange des croquettes. Pipkia est identifié, vacciné, stérilisé, testé Felv/Fiv négatif et déparasité. Lors de son adoption, l'association B.A.79 demande une participation de 173 euros pour pouvoir sauver d'autres minous.
 
