@@ -4,7 +4,7 @@ type: post
 nom: Hypnos et Durga
 sexe: MF
 datedenaissance: 01/08/2020
-etat: reserve
+etat: adopte
 date: 2020-11-08T17:38:37.217Z
 description: Hypnos et Durga sont adoptables ensemble
 image: images/rsz_20201011_184118.jpg
