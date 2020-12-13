@@ -4,7 +4,7 @@ type: post
 nom: Malou
 sexe: F
 datedenaissance: 19/04/2018
-etat: disponible
+etat: adopte
 date: 2020-11-11T11:40:48.698Z
 description: Malou adore les caresses
 image: images/rsz_malou1.jpg
