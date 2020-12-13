@@ -24,4 +24,4 @@ soinsfaits:
   - vaccinée
   - déparasitée
 ---
-Altaïr est un chaton femelle née le 8 juin 2020. Elle est très câline, très joueuse et calme à la fois. Elle apprécie la présence des enfants. Altaïr est propre et mange de croquettes. A l'adoption, l'association B.A.79 vous demande le remboursement de frais (identification, vaccination, antiparasites, croquettes) d'un montant de 170 euros afin de sauver d'autres chatons.
+Altaïr est un chaton femelle née le 8 juin 2020. Elle est très câline, très joueuse et calme à la fois. Elle a besoin de la présence de son frère Véga. Altaïr est propre et mange de croquettes. A l'adoption, l'association B.A.79 vous demande une participation correspondant aux frais engagés par l'association (identification, vaccination, antiparasites, croquettes) d'un montant de 170 euros afin de sauver d'autres chatons.
