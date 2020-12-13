@@ -28,7 +28,7 @@ Veuillez remplir le bulletin d'adhésion suivant :
 
 L’association B.A.79 est reconnue d’intérêt général donc tout don donne droit à une défiscalisation de ce montant à la hauteur de 66% dans une limite de 20% du montant du revenu imposable. 
 
-Veuillez remplir le bulletin de don suivant 
+Veuillez remplir le bulletin de don suivant : 
 
 https://docs.google.com/forms/d/1xfK9ZtVwUXY_fWvjP3XCgXrwdhsOWX8XG0Bns2UoWSk/edit
 
