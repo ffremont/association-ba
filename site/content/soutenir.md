@@ -30,7 +30,7 @@ L’association B.A.79 est reconnue d’intérêt général donc tout don donne 
 
 Veuillez remplir le bulletin de don suivant : 
 
-https://docs.google.com/forms/d/1xfK9ZtVwUXY_fWvjP3XCgXrwdhsOWX8XG0Bns2UoWSk/edit
+https://docs.google.com/forms/d/1xfK9ZtVwUXY_fWvjP3XCgXrwdhsOWX8XG0Bns2UoWSk/edit 
 
 {{< ba-link title="Faire un don" url="http://payrequest.me/ba79" >}}
 
