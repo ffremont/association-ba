@@ -22,7 +22,7 @@ Les membres assistent et votent à l'assemblée générale annuelle. Ils partici
 
 Veuillez remplir le bulletin d'adhésion suivant : 
 
-<https://docs.google.com/forms/d/1HaH4c0uK08kji4Z4xwd47aAxNdV9oV90t9_n2u4FDQM/edit>
+https://docs.google.com/forms/d/e/1FAIpQLSczk9LF7H6g26lZx7mBwBV_fFmfqThAYRfTQWq4oHuMCAHU-A/viewform
 
 **Le don** : 
 
