@@ -1,7 +1,7 @@
 ---
 title: Nous contacter
 linkTitle: Ecrire un SMS
-linkUrl: tel:0549266140
+linkUrl: tel:0695603167
 date: 2020-05-14T14:46:10+06:00
 description: Un premier lien se fait par mail ou Facebook ou twitter ou au 05 49
   26 61 40 (laissez un message et vos coordonnées).
