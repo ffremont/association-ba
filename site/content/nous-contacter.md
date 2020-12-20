@@ -3,8 +3,8 @@ title: Nous contacter
 linkTitle: Ecrire un SMS
 linkUrl: tel:0695603167
 date: 2020-05-14T14:46:10+06:00
-description: Un premier lien se fait par mail ou Facebook ou twitter ou au 05 49
-  26 61 40 (laissez un message et vos coordonnées).
+description: Un premier lien se fait par sms (0695603167) ou mail ou Facebook
+  (messenger) ou twitter.
 image: images/nous-contacter.jpg
 imageAlt: "être là pour eux "
 tags:
@@ -13,10 +13,10 @@ tags:
   - rencontre
 type: featured
 ---
+sms (0695603167)
+
 b.a.79@laposte.net
 
-<https://www.facebook.com/AssociationB.A.79>
+https://www.facebook.com/AssociationB.A.79
 
 <https://twitter.com/AssociationBA79>
-
-05 49 26 61 40 (répondeur : laissez un message et vos coordonnées)
