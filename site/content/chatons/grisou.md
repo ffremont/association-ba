@@ -30,7 +30,8 @@ soinsfaits:
 ---
 Grisou est un jeune chat mâle né le 1er janvier 2019. Il a été sauvé de la rue suite à un abandon. Grisou est très câlin et a besoin de beaucoup de caresses. Les adoptants devront être disponibles, attentionnés et présents. Grisou est un gros gourmand, il faudra être attentif à sa courbe de poids. Grisou est testé positif au Fiv donc il doit être le seul chat de la maison et rester à l'intérieur pour éviter toute transmission aux autres chats ou être le parfait compagnon d'un autre chat Fiv qui s'ennuierait tout seul. Grisou est identifié, vacciné, stérilisé et déparasité. L'association B.A.79 demande une participation pour les soins d'un montant de 207 euros pour pouvoir sauver d'autres minous. 
 
-<https://www.youtube.com/watch?v=HaFGlVq5pCo&feature=youtu.be>
+
+{{< youtube id="HaFGlVq5pCo" >}}
 
 https://www.youtube.com/watch?v=Y6F5RnrKYtM&feature=youtu.be
 
