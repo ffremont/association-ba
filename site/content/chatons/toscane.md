@@ -30,4 +30,4 @@ Toscane est une minette sauvée de la rue suite à un abandon. Elle est jeune, e
 
 
 
-![](images/rsz_img_4333.jpg "\"je ne sais pas si je veux un câlin, je réfléchis.\" ")
+(images/rsz_img_4333.jpg "\"je ne sais pas si je veux un câlin, je réfléchis.\"
