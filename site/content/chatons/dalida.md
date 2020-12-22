@@ -30,3 +30,4 @@ soinsfaits:
 Dalida est une jeune minette de deux ans qui a été sauvée de la rue suite à un abandon. Elle a connu le foyer puisqu'elle s'est très bien adaptée chez nous. Elle est très intelligente, calme et très joueuse à ses heures. Elle apprécie les caresses. Elle aurait besoin d'un petit jardin ou d'un beau balcon sécurisé. Dalida doit vivre seule sans autre chat à la maison. Elle est identifiée, vaccinée, déparasitée, stérilisée et testée négative Felv/Fiv (donc elle n'a ni le sida des chats, ni la leucose). L'association B.A.79 demande une participation de 263 euros lors de l'adoption pour pouvoir sauver d'autres minous.
 
 {{< youtube id="0lDVn4E9DEQ" >}}
+
