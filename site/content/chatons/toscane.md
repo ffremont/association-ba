@@ -26,8 +26,8 @@ soinsfaits:
   - déparasitée
   - testée Felv/Fiv négative
 ---
-Toscane est une minette sauvée de la rue suite à un abandon. Elle est jeune, elle a tout juste un an. Toscane est d'une tendresse inouïe ! Elle a besoin d'être tranquille chez elle avec beaucoup d'attention, de caresses. Elle le mérite amplement. Elle a plein d'amour à donner. Elle est très intelligente. Toscane est propre et mange des croquettes. Elle est 
+Toscane est une minette sauvée de la rue suite à un abandon. Elle est jeune, elle a tout juste un an. Toscane est d'une tendresse inouïe ! Elle a besoin d'être tranquille chez elle avec beaucoup d'attention, de caresses. Elle le mérite amplement. Elle a plein d'amour à donner. Elle est très intelligente. Toscane est propre et mange des croquettes. Elle est testée felv/fiv négatif donc elle n'a pas le sida ni la leucose. Elle est également déparasitée. L'association B.A.79 demande une participation de 263 euros lors de l'adoption pour pouvoir sauver d'autres minous.
 
-![](images/rsz_img_4333.jpg "Un amour de Toscane")
 
- donc elle n'a pas le sida ni la leucose. Elle est également déparasitée. L'association B.A.79 demande une participation de 263 euros lors de l'adoption pour pouvoir sauver d'autres minous.
+
+![](images/rsz_img_4333.jpg "\"je ne sais pas si je veux un câlin, je réfléchis.\" ")
