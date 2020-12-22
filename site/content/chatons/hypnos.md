@@ -35,3 +35,5 @@ soinsfaits:
 ![](images/rsz_20201011_183943.jpg "Durga au repos après le jeu")
 
 Hypnos (mâle, gris) et Durga (femelle, rousse et blanche) sont deux chatons frère et sœur abandonnés et sauvés de l'euthanasie à 1 mois. Ils adorent les câlins et les caresses. Ils sont propres et mangent des croquettes. Ils jouent et dorment souvent ensemble. Ils sont très attachés et attentifs l'un à l'autre. Ils ronronnent beaucoup. Ils sont identifiés, vaccinés et déparasités. L'association B.A.79 demande une participation de 284 euros pour les deux afin de pouvoir sauver d'autres minous. Le coût des identifications est offert.
+
+{{< youtube id=CqWVonnpD7o" >}}
