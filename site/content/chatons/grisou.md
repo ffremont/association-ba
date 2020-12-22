@@ -33,10 +33,7 @@ Grisou est un jeune chat mâle né le 1er janvier 2019. Il a été sauvé de la 
 
 {{< youtube id="HaFGlVq5pCo" >}}
 
-https://www.youtube.com/watch?v=Y6F5RnrKYtM&feature=youtu.be
-
-https://www.youtube.com/watch?v=UJnEDlUT3do&feature=youtu.be
+https://youtu.be/Y6F5RnrKYtM
 
 
-
-![](images/rsz_grisou2.jpg "Grisou veut toujours des câlins. ")
+(images/rsz_grisou2.jpg "Grisou veut toujours des câlins. ")
