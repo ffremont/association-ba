@@ -1,7 +1,5 @@
 ---
 title: Comment adopter ?
-linkTitle: comment adopter
-linkUrl: comment adopter
 date: 2020-05-14T14:46:10+06:00
 description: >-
   Voici la démarche pour adopter avec l'association B.A.79
