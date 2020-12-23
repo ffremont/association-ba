@@ -7,7 +7,7 @@ title = "B.A. 79"
 baseurl = "/"
 
 [params]
-mobile = ""
+mobile = "0695603167"
 mentionsURL = "/mentions-legales"
 author_image = ""
 copyright = "Tous droits réservés &copy; 2020"
@@ -21,6 +21,7 @@ contact_form_action = "#"
 mainModal = false
 address = "..."
 facebookPage = "https://www.facebook.com/AssociationB.A.79"
+tweeterPage = "https://twitter.com/AssociationBA79"
 preloader = true
 google_analitycs_id = "UA-181036051-1"
 urlSoutenir = "/soutenir"

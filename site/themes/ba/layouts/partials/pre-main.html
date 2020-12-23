@@ -1,3 +1,9 @@
 <div class="pre-main">
-    <p>Ce site a pour <strong>seule</strong> mission l'<span class="adopt">adoption</span>, en aucun cas un moyen de procéder à des sauvetages</p>
+    {{ if (in .URL "/chatons/") }} 
+
+    {{else}}
+    <p>Ce site a pour <strong>seule</strong> mission l'<span class="adopt">adoption</span>, en aucun cas un moyen de
+        procéder à des sauvetages</p>
+    {{ end }}
+    
 </div>
