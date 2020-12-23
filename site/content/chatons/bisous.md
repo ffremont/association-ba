@@ -17,7 +17,7 @@ tags:
   - marron
   - blanc
   - câlin
-  - joueur.
+  - joueur
 traits:
   - câlin
   - joueur
