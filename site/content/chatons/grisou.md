@@ -7,8 +7,8 @@ datedenaissance: 13/12/2020
 etat: disponible
 date: 2020-12-13T17:54:57.683Z
 description: Un adorable chat fiv positif.
-image: images/rsz_grisou1.jpg
-imageAlt: "Grisou cherche le contact. "
+image: images/rsz_grisoujeu.jpg
+imageAlt: "Grisou adore les caresses et le jeu. "
 montantremoursement: 207
 tags:
   - chat
