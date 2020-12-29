@@ -4,7 +4,7 @@ type: post
 nom: Altaïr
 sexe: F
 datedenaissance: 08/06/2020
-etat: reserve
+etat: adopte
 date: 2020-11-11T11:07:54.737Z
 description: Altaïr est active et très câline
 image: images/rsz_img_4273.jpg
