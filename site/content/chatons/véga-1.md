@@ -4,7 +4,7 @@ type: post
 nom: Véga
 sexe: M
 datedenaissance: 13/12/2020
-etat: reserve
+etat: adopte
 date: 2020-12-13T18:36:16.674Z
 description: Véga est un chaton tranquille
 image: images/rsz_img_4301.jpg
