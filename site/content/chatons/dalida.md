@@ -4,7 +4,7 @@ type: post
 nom: Dalida
 sexe: F
 datedenaissance: 15/05/2018
-etat: reserve
+etat: adopte
 date: 2020-10-31T17:21:04.109Z
 description: Dalida, une petite chatte intelligente et curieuse
 image: images/dalida.jpg
