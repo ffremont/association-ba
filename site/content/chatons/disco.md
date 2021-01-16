@@ -26,4 +26,4 @@ soinsfaits:
   - vacciné
   - déparasité
 ---
-Disco est un chaton mâle sauvé de la rue à l'âge de 3 semaines. Disco est un petit minou actif, joueur, très câlin. Il adore les caresses. Il a été élevé avec un autre chat adulte dans sa famille d'accueil et avec son frère Mambo. Il serait bon pour Disco de retrouver ce contact avec un autre chat adulte dans sa famille d'adoption qui accepte de jouer et faire des câlins avec lui. Il est propre et mange des croquettes. Il apprécie également la pâtée. Disco est identifié, vacciné et déparasité. Lors de l'adoption, une participation de 170 euros est demandée pour les frais engagés et pour pouvoir sauver d'autres minous.
+Disco est un chaton mâle sauvé de la rue à l'âge de 3 semaines. Disco est un petit minou actif, joueur, très câlin. Il adore les caresses. Il a été élevé avec un autre chat adulte dans sa famille d'accueil et avec son frère Mambo. Il est propre et mange des croquettes. Disco est identifié, vacciné et déparasité. Lors de l'adoption, une participation de 170 euros est demandée pour les frais engagés et pour pouvoir sauver d'autres minous.
