@@ -24,7 +24,7 @@ soinsfaits:
   - vaccinée
   - déparasitée
 ---
-Doucette est une des minettes de maman Ela sauvée de la rue et de l'abandon avec ses chatons. Doucette est très calme. Elle a besoin d'une famille adoptante très calme et patiente. Il serait bien qu'elle soit adoptée soit avec sa maman Ela car elle reste souvent près de sa maman ou avec son frère Filou. Elle est propre et mange des croquettes. Lors de l'adoption une participation de 170 euros est demandée pour les frais engagés et pour pouvoir sauver d'autres minous.
+Doucette est une des minettes de maman Ela sauvée de la rue et de l'abandon avec ses chatons. Doucette est très calme. Elle a besoin d'une famille adoptante très calme et patiente. Doucette doit être adoptée avec son frère Filou car ils sont tous les deux très réservés et ils ont besoin de l'un et de l'autre pour se rassurer. Elle est propre et mange des croquettes. Lors de l'adoption une participation de 170 euros est demandée pour les frais engagés et pour pouvoir sauver d'autres minous.
 
 Dans le cas de l'adoption de deux minous, le coût de l'identification est offert.
 
