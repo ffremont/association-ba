@@ -24,6 +24,6 @@ soinsfaits:
   - stérilisée
   - déparasitée
 ---
-Belle est un chat femelle âgée d’un an environ. Elle a été sauvée de la rue. C’est une belle minette, douce, câline quand elle a entièrement confiance. Elle a besoin de la présence d’un de ses compagnons de la rue, pour être sereine. Elle s’entend très bien avec Milou. Il ne faut pas de chien. Elle aimera un jardin. Il faudra de la patience pour qu’elle vous apprivoise. Elle est identifiée, stérilisée. Elle est également déparasitée. L'association B.A.79 demande une participation de 146 euros lors de l'adoption pour pouvoir sauver d'autres minous. Un bon de primo-vaccination au tarif association sera fourni lors de l’adoption.
+Belle est un chat femelle âgée d’un an environ. Elle a été sauvée de la rue. C’est une belle minette, douce, câline quand elle a entièrement confiance. Elle a besoin de la présence d’un autre chat tranquille pour être sereine. Il ne faut pas de chien. Elle aimera un jardin. Il faudra de la patience pour qu’elle vous apprivoise. Elle est identifiée, stérilisée. Elle est également déparasitée. L'association B.A.79 demande une participation de 146 euros lors de l'adoption pour pouvoir sauver d'autres minous. Un bon de primo-vaccination au tarif association sera fourni lors de l’adoption.
 
 ![](images/rsz_belle2.jpg "Belle, bien au chaud")
