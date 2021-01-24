@@ -4,7 +4,7 @@ type: post
 nom: Lou
 sexe: F
 datedenaissance: 01/05/2019
-etat: disponible
+etat: adopte
 date: 2020-11-11T11:29:04.503Z
 description: Lou a besoin d'attention
 image: images/rsz_lou.jpg
