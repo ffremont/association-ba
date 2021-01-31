@@ -4,7 +4,7 @@ type: post
 nom: Risette
 sexe: F
 datedenaissance: 22/10/2020
-etat: reserve
+etat: adopte
 date: 2021-01-10T14:18:13.802Z
 description: Risette est très curieuse.
 image: images/rsz_risette.jpg
