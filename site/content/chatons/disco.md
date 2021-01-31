@@ -4,7 +4,7 @@ type: post
 nom: Disco
 sexe: M
 datedenaissance: 26/09/2020
-etat: disponible
+etat: adopte
 date: 2021-01-16T18:00:46.783Z
 description: Disco est un adorable petit chaton joueur et câlin.
 image: images/rsz_dico1.jpg
