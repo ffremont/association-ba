@@ -4,7 +4,7 @@ type: post
 nom: Emile
 sexe: M
 datedenaissance: 01/01/2018
-etat: reserve
+etat: disponible
 date: 2021-01-03T16:59:00.171Z
 description: "Emile est un jeune chat mâle très fan des caresses. "
 image: images/emile.jpg
