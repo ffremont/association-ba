@@ -27,6 +27,4 @@ soinsfaits:
 ---
 Boréal est un chat abandonné dans la rue par les temps froids et pluvieux. Il a déjà connu la vie de foyer car il est propre. Il mange des croquettes et apprécie la pâtée. Boréal est un chat extrêmement calme. Il passe beaucoup de temps à observer son environnement. Boréal a besoin d'être le seul chat de la maison. Il aime être caressé. Lors de son adoption, l'association B.A.79 demande la participation de 207 euros pour les frais engagés (identification, stérilisation, vaccination, test felv/Fiv négatif et déparasité) et pour sauver d'autres minous.
 
-
-
-{{< youtu.be id= "orpdi03Qgvg" >}}
+{{< youtube id= "/orpdi03Qgvg" >}}
