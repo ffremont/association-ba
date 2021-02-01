@@ -24,7 +24,7 @@ soinsfaits:
   - identifié
   - testé felv/fiv négatif et déparasité
 ---
-Aquilon est un chat abandonné dans la rue durant les temps froids et pluvieux. Il est propre donc il a déjà connu un foyer. Aquilon est réservé dans un premier temps puis il se révèle très joueur, très câlin. C'est un chat adorable ! Il mange des croquettes et apprécie la pâtée. Lors de son adoption, l'association B.A.79 demande une participation de 207 euros pour les frais engagés (stérilisation, vaccination, identification, test Felv/fiv et déparasité) et pour pouvoir sauver d'autres minous. 
+Aquilon est un chat abandonné dans la rue durant les temps froids et pluvieux. Il est propre donc il a déjà connu un foyer. Aquilon est réservé dans un premier temps puis il se révèle très joueur, très câlin. C'est un chat adorable ! Il mange des croquettes et apprécie la pâtée. Il vaut mieux qu'il soit le seul chat de la maison. Lors de son adoption, l'association B.A.79 demande une participation de 207 euros pour les frais engagés (stérilisation, vaccination, identification, test Felv/fiv et déparasité) et pour pouvoir sauver d'autres minous. 
 
 {{< youtube id = "/KgB_5bkgnFc" >}}
 
