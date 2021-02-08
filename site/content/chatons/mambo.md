@@ -4,7 +4,7 @@ type: post
 nom: Mambo
 sexe: M
 datedenaissance: 20/09/2020
-etat: reserve
+etat: adopte
 date: 2021-01-16T18:16:39.639Z
 description: "Mambo est très observateur. "
 image: images/rsz_mambo1.jpg
