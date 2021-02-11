@@ -4,7 +4,7 @@ type: post
 nom: Belle
 sexe: F
 datedenaissance: 23/09/2019
-etat: disponible
+etat: adopte
 date: 2020-11-11T11:36:21.728Z
 description: Belle est douce et câline et aurait besoin de son compagnon Milou
 image: images/rsz_belle1.jpg
