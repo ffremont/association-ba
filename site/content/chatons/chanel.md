@@ -4,7 +4,7 @@ type: post
 nom: Chanel
 sexe: F
 datedenaissance: 01/07/2020
-etat: disponible
+etat: adopte
 date: 2021-01-31T18:38:12.430Z
 description: "Chanel est une jeune minette qui a beaucoup de glamour. "
 image: images/chanel-1.jpg
