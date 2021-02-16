@@ -1,6 +1,6 @@
 ---
 title: Soutenir
-linkTitle: paiement en ligne
+linkTitle: Faire un don
 linkUrl: http://payrequest.me/ba79
 date: 2020-05-14T14:46:10+06:00
 description: Seul, je vais plus vite, ensemble, nous allons plus loin !
