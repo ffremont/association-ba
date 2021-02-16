@@ -4,7 +4,7 @@ type: post
 nom: Boréal
 sexe: M
 datedenaissance: 01/07/2018
-etat: disponible
+etat: adopte
 date: 2021-01-31T18:49:26.554Z
 description: Boréal est un petit père tranquille.
 image: images/boréal-1.jpg
