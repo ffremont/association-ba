@@ -4,7 +4,7 @@ type: post
 nom: Milou
 sexe: M
 datedenaissance: 01/07/2019
-etat: disponible
+etat: adopte
 date: 2020-11-11T11:24:00.178Z
 description: Milou est un très gentil chat
 image: images/rsz_milou2.jpg
