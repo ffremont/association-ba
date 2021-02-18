@@ -167,3 +167,9 @@ a.hover{
         text-align: center;
     }
   }
+
+  article.content p > img{
+      max-width: 200px;
+      display: block;
+      margin:auto;
+  }

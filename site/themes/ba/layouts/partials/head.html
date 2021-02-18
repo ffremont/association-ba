@@ -2,6 +2,7 @@
   <meta charset="utf-8">
   <title>{{ with .Title }}{{ . }}{{ else }}{{ with .Site.Title }}{{ . }}{{ end }}{{ end }}</title>
 
+  <base href="/">
   {{ "<!-- mobile responsive meta -->" | safeHTML }}
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ with .Site.Params.description }}{{ . }}{{ end }}{{ end }}">
