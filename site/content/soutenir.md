@@ -1,6 +1,6 @@
 ---
 title: Soutenir
-linkTitle: Faire un don
+linkTitle: Paiement en ligne
 linkUrl: http://payrequest.me/ba79
 date: 2020-05-14T14:46:10+06:00
 description: Seul, je vais plus vite, ensemble, nous allons plus loin !
@@ -32,6 +32,6 @@ Veuillez remplir le bulletin de don suivant :
 
 https://docs.google.com/forms/d/e/1FAIpQLSe3qbQe1kYjnkWoEIYQ5HxQ6iV6qwEpBdXOWSLHN5BP71hQww/viewform
 
-{{< ba-link title="Faire un don" url="http://payrequest.me/ba79" >}}
+{{< ba-link title="Paiement en ligne" url="http://payrequest.me/ba79" >}}
 
 **Les opérations de solidarité** : vente de chocolats, vente de crayons, de T-Shirt ...
