@@ -28,8 +28,12 @@ soinsfaits:
   - vaccinés
   - déparasités
 ---
-Stone (femelle) et Chardene (mâle) sont des chatons frère et sœur sauvés de la rue et de l'euthanasie quand ils avaient 10 jours. Stone et Chardene se sont soutenus dans la galère et ont besoin d'être ensemble. Ils se sentent en sécurité quand il voit l'autre. Stone et Chardene sont calmes, joueurs et câlins. Ils sont propres et mangent des croquettes. Ils sont identifiés, vaccinés, stérilisés, testés Felv/Fiv négatifs et déparasités. L'association B.A.79 demande une participation de 459 euros pour les deux. Le coût des identifications est offert.
+Stone (femelle) et Chardene (mâle) sont des chatons frère et sœur sauvés de la rue et de l'euthanasie quand ils avaient 10 jours. Stone et Chardene se sont soutenus dans la galère et ont besoin d'être ensemble. Ils se sentent en sécurité quand il voit l'autre. Stone et Chardene sont calmes, joueurs et câlins. Ils sont propres et mangent des croquettes. Ils sont identifiés, vaccinés, stérilisés, testés Felv/Fiv négatifs et déparasités. L'association B.A.79 demande une participation de 459 euros pour les deux. Le coût des identifications est offert. 
 
-rsz_img_4342.jpg "Stone demande le câlin"
+Stone et Chardene sont très copains avec un autre chaton nommés Angus. Ils jouent toujours ensemble et la présence de Stone et Chardene rassure Angus. Nous souhaiterions qu'Angus soit adopté gratuitement avec Stone et Chardene. 
 
-rsz_img_4346.jpg "Chardene réfléchit"
+{{< [youtube id="Dz4djbZ5TCI](https://youtu.be/Dz4djbZ5TCI)" >}}
+
+{{< [youtube id="6L2sU5TVmfM](https://youtu.be/6L2sU5TVmfM)" >}}
+
+{{< [youtube id="E_6ekdng7fQ](https://youtu.be/E_6ekdng7fQ)" >}}
