@@ -4,7 +4,7 @@ type: post
 nom: Ela
 sexe: F
 datedenaissance: 01/01/2018
-etat: reserve
+etat: adopte
 date: 2021-01-10T12:55:21.584Z
 description: Une minette courageuse.
 image: images/rsz_ela.jpg
