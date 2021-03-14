@@ -4,7 +4,7 @@ type: post
 nom: Pipkia
 sexe: M
 datedenaissance: 13/11/2017
-etat: disponible
+etat: adopte
 date: 2020-12-12T12:05:47.260Z
 description: "Pipkia est très câlin. "
 image: images/rsz_pipkia1.jpg
