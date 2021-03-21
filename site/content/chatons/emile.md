@@ -28,4 +28,4 @@ soinsfaits:
   - castré
   - déparasité
 ---
-Emile est un jeune chat abandonné dans la rue. Il a beaucoup mangé d'alimentation humaine qu'il demandait à droite à gauche ou qu'il trouvait et cela lui a provoqué des problèmes aux reins. Emile a besoin d'une alimentation adaptée. Emile est un chat adorable, il est calme, il adore les câlins, les caresses. Il est très propre. Emile était déjà stérilisé. Lors de l'adoption, une participation de 173 euros pour les frais engagés (déparasité, identifié, vacciné, testé felv/fiv négatif) et pour pouvoir aider d'autres minous.
+Emile est un jeune chat abandonné dans la rue. Il a beaucoup mangé d'alimentation humaine ce qui a affecté un de ses reins. Emile a besoin d'une alimentation adaptée croquettes ou pâtées spéciales pour les reins. Emile est un chat adorable, il est calme, il adore les câlins, les caresses. Il joue de plus en plus avec les autres chats de l'association. Il est très propre. Emile était déjà stérilisé. Lors de l'adoption, une participation de 173 euros pour les frais engagés (déparasité, identifié, vacciné, testé felv/fiv négatif) et pour pouvoir aider d'autres minous.
