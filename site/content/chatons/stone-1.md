@@ -7,7 +7,7 @@ datedenaissance: 08/11/2020
 etat: disponible
 date: 2020-11-08T18:06:56.384Z
 description: Stone et Chardene sont adoptables ensemble
-image: images/rsz_20201017_132740_001.jpg
+image: images/stone-et-chardene1.jpg
 imageAlt: Stone et Chardene sont inséparables
 montantremoursement: 459
 tags:
