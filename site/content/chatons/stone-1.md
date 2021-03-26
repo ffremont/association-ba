@@ -3,7 +3,7 @@ title: Stone et Chardene
 type: post
 nom: Stone et Chardene
 sexe: FM
-datedenaissance: 08/11/2020
+datedenaissance: 20/05/2020
 etat: disponible
 date: 2020-11-08T18:06:56.384Z
 description: Stone et Chardene sont adoptables ensemble
