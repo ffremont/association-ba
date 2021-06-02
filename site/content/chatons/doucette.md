@@ -4,7 +4,7 @@ type: post
 nom: Doucette et Filou
 sexe: FM
 datedenaissance: 22/10/2020
-etat: disponible
+etat: adopte
 date: 2021-01-10T13:57:51.664Z
 description: Doucette et Filou sont très calmes.
 image: images/doucette-et-filou.jpg
