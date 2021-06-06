@@ -4,7 +4,7 @@ type: post
 nom: Miminette
 sexe: F
 datedenaissance: 01/01/2015
-etat: disponible
+etat: adopte
 date: 2021-04-12T12:57:31.623Z
 description: "Miminette a perdu ses maîtres, l'un décédé et l'autre partie en
   maison de retraite. Elle attend une nouveau foyer où elle pourra faire ses
