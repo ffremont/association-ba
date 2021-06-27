@@ -4,7 +4,7 @@ type: post
 nom: Fantomette
 sexe: F
 datedenaissance: 01/08/2018
-etat: disponible
+etat: adopte
 date: 2020-11-11T11:17:48.013Z
 description: Fantomette est une minette de la rue très bien apprivoisée
 image: images/rsz_fantomette1.jpg
