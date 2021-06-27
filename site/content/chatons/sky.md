@@ -4,7 +4,7 @@ type: post
 nom: Sky
 sexe: M
 datedenaissance: 20/03/2021
-etat: disponible
+etat: adopte
 date: 2021-06-13T16:36:06.803Z
 description: Sky est un gentil chaton.
 image: images/rsz_1sky_3.jpg
